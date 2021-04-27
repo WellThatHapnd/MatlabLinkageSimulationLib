@@ -1,10 +1,4 @@
 %{
-%AER403 - Mechanism & Vibrations - W2021 - Final Project
-
-Khaled Hazzam - 46540
-Nolan Robins - 52814
-Marcin Pawluch - 75631
-
 THIS FILE REQUIRES link.m & pivot_link.m TO FUNCTION, FAILURE TO HAVE
 THESE FILES IN THE SAME DIRECTORY OF PATH WILL RESULT IN FAILURE TO OPERATE
 
